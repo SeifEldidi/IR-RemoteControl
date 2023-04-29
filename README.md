@@ -1,5 +1,5 @@
 # IR-RemoteControl
-Simple Remote Controller Project press on a certain key then a led turns on simulated using proteus
+Simple Remote Controller Project using Atmega32/16. Press on a certain key then a led turns on simulated using proteus
 ## Description
 IR Remote controller decoded using tsopv1738 Ir sensor thanks to Antor Ahmed for providing me with remote controller in proteus  
 ![image](https://user-images.githubusercontent.com/106155115/235321244-a7da162b-4107-468f-9c33-7328fa87574e.png)
